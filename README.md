@@ -16,4 +16,4 @@ eu penso em trabalhar na parte de front-end usando ui/ux
 
 ##
 
-<img align="center" alt="nicolas-CSS" height="1000" width="1000" src="https://i.pinimg.com/736x/69/70/bd/6970bd85603bbb63822c2bf6ffec1ffb.jpg">
+<img align="center" alt="nicolas-CSS" height="1000" width="1000" src="https://i.pinimg.com/736x/d9/23/8a/d9238a57872ffc5c68d806093e302f2c.jpg">
